@@ -20,7 +20,7 @@ import java.security.Principal;
 
 @Controller
 @RequiredArgsConstructor
-public class OrderController {
+public class OrderController { 
 
     private final OrderService orderService;
 
